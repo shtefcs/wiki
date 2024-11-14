@@ -369,6 +369,7 @@ title: GoUsers
 
 ### Estonia
   * [Wallester](https://wallester.eu) - [github](https://github.com/wallester)
+  * [Automatio AI](https://automatio.ai) - [github](https://github.com/automatio-co/)
 
 ### Finland
   * [Alma Media](https://www.almamedia.fi/en/) - Media/Publishing company. [Twitter](https://twitter.com/almadevelopers)
